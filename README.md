@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @ValeriiaTeplinska, Junior QA Engineer
-- 👀 I’m interested in testing
-- 🌱 I’m currently learning Python and AI
-- 💞️ I’m looking to collaborate on different projects where I can prove my skills
-- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/valeriia-teplinska-b53549253/
+👋 Welcome to My GitHub!
+Hello there! I'm Valeriia Teplinska, a Junior QA Engineer with a passion for ensuring software quality and a keen eye for detail. I'm excited to share my journey with you as I explore and grow in the world of software testing.
+
+🚀 What You’ll Find Here
+Test Cases & Check-lists: My approach to designing and documenting test cases and check-lists based on product requirements.
+Bug Reports: Examples of bugs I've identified and documented
+And other examples of my work
+
+🌱 Always Learning
+I’m constantly learning and experimenting with new tools, techniques, and technologies. And I'm currently learning python 
+
+
+
+
 
 
 <!---
