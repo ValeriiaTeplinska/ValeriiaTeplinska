@@ -7,8 +7,7 @@ Bug Reports: Examples of bugs I've identified and documented
 And other examples of my work
 
 🌱 Always Learning
-I’m constantly learning and experimenting with new tools, techniques, and technologies. And I'm currently learning python 
-
+I’m constantly learning and experimenting with new tools, techniques, and technologies
 
 
 
